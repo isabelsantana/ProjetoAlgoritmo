@@ -2,7 +2,7 @@
 Como resolver o problema das filas e do atendimento precário dos cartórios com a informatização.
 
 # 1. Introdução
-O nosso projeto de algoritmos busca atraves da informatização uma solução para o problema das enormes filas presentes nos cartorios. Utilizando a linguagem do python acreditamos que criando uma interface apresentando as localidades e os serviços fornecidos pelos cartorios venha à agilizar o atendimento tendendo assim a diminuição das filas.
+O nosso projeto de algoritmos busca através da informatização uma solução para o problema das enormes filas presentes nos cartórios. Utilizando a linguagem do python acreditamos que criando uma interface apresentando as localidades e os serviços fornecidos pelos cartórios venha à agilizar o atendimento tendendo assim a diminuição das filas.
 # 1.1 Tema
 O problema das filas nos Cartórios. 
 # 1.2 Objetivo do Projeto 
