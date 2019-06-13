@@ -13,3 +13,4 @@ Devido a extensão e proporção de problemas que o projeto poderia apresentar, 
 Dentre os problemas propostos, chegamos a conclusão de que o tema escolhido seria o mais vialvel para resolução por meio da informatização.
 # 1.5  Método de Trabalho
 Primeiro pesquisamos e coletamos informações do tema escolhido, com as informações coletadas criamos uma base inicial de resolução que queriamos usar, depois fomos delimitando o problema e o enxungando de acordo com o tempo e ferramentas que possuimos. Depois de termos uma ideia concreta começamos a implementação do codigo usando estruturas que mais se aproximavam da nossa necessidade, sendo elas o dicionario e as listas.
+Obs: Armazenando os dados da quantidade das vezes em que o serviço foi solicitado em 'dicionario', podemos criar um grafico relacionando Pessoas(solicitações) x Serviços, após analisarmos o mesmo, poderiamos assim está sugerindo novas formas de resolução do problema.
